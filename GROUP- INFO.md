@@ -1,10 +1,11 @@
-TECHNOTUNERS                                                                                                                                                             Created by : JAKATI NIKITHA RAO  ( programming skills, python , c++)
+**TEAM NAME:TECHNOTUNERS**                                                                                                                                                    Created by : JAKATI NIKITHA RAO
 
-Team list: 
-1) vemula umarani
-2) Haritha
-3) jyothi
-4) sivani
-5) lakshmi deeraj
-6) sai  rukma reddy
-7) sai krupanand
+TEAM LIST
+------------------------------------------------
+Member1:
+JAKATI NIKITHA RAO
+Skills:
+
+Member2: 
+Umarani Vemula
+Skills: Java,MySQL
