@@ -1,2 +1,0 @@
-# TECHNOTUNERS
-##Team
