@@ -12,4 +12,4 @@ Skills: Java,MySQL
 
 Member3:
 Sai Rukma Reddy Gade </br>
-Skills: C, Python, MySql
+Skills: C, Python, MySQL
