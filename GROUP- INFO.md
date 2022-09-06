@@ -3,9 +3,9 @@
 TEAM LIST
 ------------------------------------------------
 Member1:
-JAKATI NIKITHA RAO
+JAKATI NIKITHA RAO</br>
 Skills:
 
 Member2: 
-Umarani Vemula
+Umarani Vemula </br>
 Skills: Java,MySQL
