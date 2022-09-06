@@ -5,5 +5,5 @@ Team list:
 3) jyothi
 4) sivani
 5) lakshmi deeraj
-^) sai  rukma reddy
-&) sai krupanand
+6) sai  rukma reddy
+7) sai krupanand
