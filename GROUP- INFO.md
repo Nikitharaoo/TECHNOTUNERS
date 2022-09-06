@@ -4,7 +4,7 @@ TEAM LIST
 ------------------------------------------------
 Member1:
 JAKATI NIKITHA RAO</br>
-Skills:
+Skills: c++, python. java 
 
 Member2: 
 Umarani Vemula </br>
