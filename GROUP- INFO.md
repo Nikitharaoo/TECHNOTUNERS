@@ -21,3 +21,7 @@ Skills: C, Java, Html&CSS , MYSQL
 Member5:
 Sivani Akkem </br>
 Skills:C, Python,Html
+
+Member6:
+Sai Krupanand Reddy Bakaram
+Skills: C, Java, SQL, Selenium
