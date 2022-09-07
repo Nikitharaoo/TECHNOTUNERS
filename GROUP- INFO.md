@@ -25,3 +25,7 @@ Skills:C, Python,Html
 Member6:
 Jyothirmayee Manne </br>
 Skills: C,Python, Html
+
+Member7:
+Sai Krupanand Reddy Bakaram </br>
+Skills: C, Java, SQL, Selenium
