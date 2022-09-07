@@ -23,5 +23,5 @@ Sivani Akkem </br>
 Skills:C, Python,Html
 
 Member6:
-Sai Krupanand Reddy Bakaram
-Skills: C, Java, SQL, Selenium
+Jyothirmayee Manne </br>
+Skills: C,Python, Html
