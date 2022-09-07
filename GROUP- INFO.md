@@ -29,3 +29,7 @@ Skills: C,Python, Html
 Member7:
 Sai Krupanand Reddy Bakaram </br>
 Skills: C, Java, SQL, Selenium
+
+Member 8:
+Lakshmi Dheeraj Oruganti </br>
+Skills: Python, SQL
