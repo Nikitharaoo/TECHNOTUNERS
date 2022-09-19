@@ -1,0 +1,23 @@
+ENTRY ├──├── account
+      │  │   ├── views.py
+      │  │   │   ├── pycache files
+      │  │   ├── serializers.py
+      │  │   ├── model.py
+      │  │   ├── urls.py
+      │  ├── courses
+      │  │   ├── views.py
+      │  │   │   ├── pycache files
+      │  │   ├── models.py
+      │  │   ├── urls.py
+      │  │   ├── serieliser.py
+      │  ├── feedback and exercise
+      │  │   ├── views.py
+      │  │   │   ├── pycache files
+      │  │   ├── models.py
+      │  │   ├── urls.py
+      │  │   ├── serieliser.py
+      │  ├── templates folder
+      │  ├── static folder
+      │  ├── media folder
+      │  ├── reports folder
+      └──└── .gitignore
