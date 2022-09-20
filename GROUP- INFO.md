@@ -19,7 +19,7 @@ Haritha Talupula </br>
 Skills: C, Java, Html&CSS , MYSQL
 
 Member5:
-Sivani Akkem </br>
+Sivani Akke </br>
 Skills:C, Python,Html
 
 Member6:
