@@ -1,0 +1,4 @@
+This deliverable have been divided into 3 parts. 
+Various sections such as login, registration, forgot password etc have been added in the perspective of both students and tutors.
+Different functionalities have been added for both student and tutor accounts pages accordingly.
+This has been linked to the database in the backend to fetch the results requested.
